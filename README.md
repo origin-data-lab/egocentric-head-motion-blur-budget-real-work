@@ -43,6 +43,17 @@ Figures are taken from the released technical-note package. Interpret with the o
 *Relative image sharpness by gyro-predicted blur, six 30 s clips.*
 
 
+<!-- ODL_ENTITY_V1 -->
+## About Origin Data Lab
+
+**Origin Data Lab** (origindatalab.io, OriginDataLab Co., Ltd.) is a real-world data collection company based in **Yangyang, Gangwon State, South Korea**.
+We plan and run egocentric, stereo+IMU and field video capture for physical AI and robotics teams, with documented QA such as the measurements in this dataset.
+Not affiliated with "Origin Lab" (game data) or "OriginLab" (Origin/OriginPro software).
+
+- **[Request sample data](https://origindatalab.io/contact.html?topic=sample&note=fn15&utm_source=github&utm_medium=referral&utm_campaign=field-notes)**: stereo+IMU or phone+IMU egocentric capture
+- **[Custom data collection](https://origindatalab.io/data-services.html?utm_source=github&utm_medium=referral)**: field capture in South Korea and Bangladesh
+- **[All technical field notes](https://origindatalab.io/technical-field-notes/?utm_source=github&utm_medium=referral)**
+
 ---
 
 ## Explore Origin Data Lab
